@@ -1,15 +1,20 @@
 # System Architecture
 
 Data Sources
-↓
-Data Processing
-↓
-AI Models
-↓
+(IMD, CPCB, NRSC, MOSDAC)
+            ↓
+Data Collection Layer
+            ↓
+Data Processing Layer
+            ↓
+AI Prediction Layer
+            ↓
 Digital Twin Core
-↓
-Scenario Simulation
-↓
+            ↓
+Risk Assessment Engine
+            ↓
+Scenario Simulation Engine
+            ↓
 Recommendation Engine
-↓
-Dashboard
+            ↓
+State-wise Dashboard
